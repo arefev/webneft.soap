@@ -1,0 +1,13 @@
+{
+  "name":"webneft/soap",
+  "version":"1.0.0",
+  "type": "bitrix-module",
+  "require":{
+    "php":">=7.2",
+    "monolog/monolog": "1.23",
+    "composer/installers": "~1.0"
+  },
+  "extra": {
+    "installer-name": "webneft.soap"
+  }
+}
